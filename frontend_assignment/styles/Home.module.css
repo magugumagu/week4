@@ -55,3 +55,9 @@
     line-height: 1.5;
     font-size: 1.5rem;
 }
+.error {
+    margin-top: -1rem;
+  margin-bottom: 1rem;
+  color: red
+
+}
